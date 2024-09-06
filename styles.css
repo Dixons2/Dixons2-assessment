@@ -30,13 +30,13 @@
     float: right
 }
   body {
-    background-color: #2D564D;
+    background-color: #2D5753;
     margin: 0px;
     font-family: 'Ledger';
 }
 .heading {
-  color: #CFFFDC;
-  background-color: #19352f;
+  color: #E3FCEA;
+  background-color: #1C3D36;
   font-size: 2vw;
   position: absolute;
   top:32%;
@@ -48,8 +48,8 @@
     text-align: center;
 }
   .pagenav1 {
-    color: #CFFFDC;
-    background-color: #19352f;
+    color: #E3FCEA;
+    background-color: #1C3D36;
     border-radius: 25px;
     padding: 20px;
     width: auto;
@@ -58,8 +58,8 @@
     right: 59%;
 }
 .pagenav2 {
-  color: #CFFFDC;
-  background-color: #19352f;
+  color: #E3FCEA;
+  background-color: #1C3D36;
   border-radius: 25px;
   padding: 20px;
   width: auto;
@@ -68,8 +68,8 @@
   right: 49%;
 }
 .pagenav3 {
-  color: #CFFFDC;
-  background-color: #19352f;
+  color: #E3FCEA;
+  background-color: #1C3D36;
   border-radius: 25px;
   padding: 20px;
   width: auto;
@@ -90,9 +90,53 @@
   top: 50%;
   left: 59%;
   right: 10%;
-  color: #CFFFDC;
-  background-color: #19352f;
+  color: #E3FCEA;
+  background-color: #1C3D36;
   font-size: 1vw;
   padding:5px;
   border-radius:10px;
+}
+.image5 {
+  position: absolute;
+  top: 110%;
+  left: 52%;
+  right: 10%;
+  width: 30%;
+  margin-top: 100px;
+  margin-left: 7%;
+  margin-bottom:10px
+}
+.paragraph2 {
+  position: absolute;
+  top: 110%;
+  left: 7%;
+  right: 63%;
+  color: #E3FCEA;
+  background-color: #1C3D36;
+  font-size: 1vw;
+  padding:5px;
+  border-radius:10px;
+  margin-bottom:10px
+}
+.image6 {
+  position: absolute;
+  top: 130%;
+  left: 52%;
+  right: 10%;
+  width: 30%;
+  margin-top: 100px;
+  margin-left: 7%;
+  margin-bottom:10px
+}
+.paragraph3 {
+  position: absolute;
+  top: 120%;
+  left: 7%;
+  right: 63%;
+  color: #E3FCEA;
+  background-color: #1C3D36;
+  font-size: 1vw;
+  padding:5px;
+  border-radius:10px;
+  margin-bottom:10px
 }
